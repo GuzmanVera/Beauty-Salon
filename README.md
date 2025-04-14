@@ -1,2 +1,2 @@
 # Beauty-salon
- Web de gestión de reservas y ventas de productos para salones de belleza
+Sistema para salones de belleza que permite administrar reservas, gestionar clientes y vender productos online.
